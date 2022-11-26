@@ -45,7 +45,7 @@ int main(){
 
 
 
-	//2��°�� 3��° ���̿� �߰��� ����.
+	//2번째와 3번째 사이에 추가해 보자. here
 	Node* r = (Node*)malloc(sizeof(Node));
 	r->name = "YM";
 	r->prev = q;
@@ -63,7 +63,7 @@ int main(){
 	}
 
 
-	//1��° ��带 ������ ����.
+	//1번째 노드를 삭제해 보자.
 	printf("\n");
 	
 	Node* tmp;
