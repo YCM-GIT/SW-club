@@ -10,3 +10,7 @@ git status
 
 git diff --staged
 
+------------
+
+pull = fetch + merge
+
